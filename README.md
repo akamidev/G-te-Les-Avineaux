@@ -51,4 +51,4 @@ La refonte UX suit les étapes suivantes :
 - **Navigation** : Interface intuitive rappelant des sites comme AirBnB ou Gîtes de France.
 
 ## 📝 Licence
-Ce projet est sous licence MIT - consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence MIT - consultez le fichier [LICENSE](https://github.com/akamidev/G-te-Les-Avineaux/blob/main/LICENSE) pour plus de détails.
