@@ -3,7 +3,8 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![UX Design](https://img.shields.io/badge/Design-UX%2FUI-yellow)
-![Languages](https://img.shields.io/badge/Language-HTML%2FCSS%2FJS-orange)
+![Wireframing](https://img.shields.io/badge/Wireframing-Process-blueviolet)
+![Figma](https://img.shields.io/badge/Figma-Design-orange)
 
 ## 🎯 Objectif du Projet
 Ce projet vise à moderniser l'interface du site **Les Avineaux** afin de :
