@@ -38,7 +38,12 @@ La refonte UX suit les étapes suivantes :
 
 ## 📸 Aperçu de la Maquette
 
+[![Aperçu de la maquette](image.png)](https://github.com/akamidev/G-te-Les-Avineaux/blob/main/AKAMI-MEHDI-TP-LES-AVINEAUX.pdf)
+
+➡️ **[Cliquez ici pour accéder au PDF complet du projet](https://github.com/akamidev/G-te-Les-Avineaux/blob/main/AKAMI-MEHDI-TP-LES-AVINEAUX.pdf)**
+
 *Insérez ici une capture d'écran de la maquette finale sur Figma.*
+
 
 ## 🚀 Résultats Attendus
 - **Ergonomie** : Accès rapide aux informations clés.
